@@ -11,7 +11,7 @@
 - 🔭 I'm a <b> Frontend web developer</b> 
 - 🌱 Pursuing <b>B.Tech 3rd Year</b>
 - 👯 I’m looking to collaborate on Frontend projects
-- 👨‍💻 All of my projects are available at [git confi --GitHub](https://github.com/sanyuthem/)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/sanyuthem/)
 - 💬 Ask me about **Frontend, React , Firebase**
 - 📫 How to reach me **bhanusamyuktha88@gmail.com**
 
