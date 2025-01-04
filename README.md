@@ -7,9 +7,11 @@
 # 💫 About Me:
 
 <img align="right" alt="procoder" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/231375ce-58a3-4c3b-85c8-44ea51d1318f" width="300" />
+<br/>
 
 - 🔭 I'm a <b> Frontend web developer</b> 
 - 🌱 Pursuing <b>B.Tech 3rd Year</b>
+- 🌱 I'm a Blockchain Enthusias
 - 👯 I’m looking to collaborate on Frontend projects
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/sanyuthem/)
 - 💬 Ask me about **Frontend, React , Firebase**
